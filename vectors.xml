@@ -24,10 +24,46 @@
       <loader>TrackLoader</loader>
       <!-- doesn't need a URL -->
     </set>
-    <set loaded="true">
-      <name>CNXC</name>
-      <loader>SnapshotLoader</loader>
-      <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
-      <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/api/</url>
-    </set>
+<set loaded="true">
+  <name>Cambridge - 20111220</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/1/api/</url>
+</set>
+<set loaded="true">
+  <name>CUBA - 20111222</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/2/api/</url>
+</set>
+<set loaded="true">
+  <name>Devon-20120116</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/3/api/</url>
+</set>
+<set loaded="true">
+  <name>Mendip-20120105</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/4/api/</url>
+</set>
+<set loaded="true">
+  <name>Nottingham - 20120105</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/5/api/</url>
+</set>
+<set loaded="true">
+  <name>SouthSomerset - 20120109.osm</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/6/api/</url>
+</set>
+<set loaded="true">
+  <name>TauntonSedgemoor - 20120103.osm</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/7/api/</url>
+</set>
 </vectors>
