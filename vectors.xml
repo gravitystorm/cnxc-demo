@@ -24,46 +24,311 @@
       <loader>TrackLoader</loader>
       <!-- doesn't need a URL -->
     </set>
-<set loaded="true">
+<set loaded="true" minlat="52.125986" minlon="0.036189" maxlat="52.257591" maxlon="0.211712">
   <name>Cambridge - 20111220</name>
   <loader>SnapshotLoader</loader>
   <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
   <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/1/api/</url>
 </set>
-<set loaded="true">
-  <name>CUBA - 20111222</name>
-  <loader>SnapshotLoader</loader>
-  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
-  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/2/api/</url>
-</set>
-<set loaded="true">
+
+<set loaded="true" minlat="50.221073" minlon="-4.372911" maxlat="51.229552" maxlon="-2.97209">
   <name>Devon-20120116</name>
   <loader>SnapshotLoader</loader>
   <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
   <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/3/api/</url>
 </set>
-<set loaded="true">
+
+<set loaded="true" minlat="51.115342" minlon="-2.756234" maxlat="51.287754" maxlon="-2.317007">
   <name>Mendip-20120105</name>
   <loader>SnapshotLoader</loader>
   <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
   <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/4/api/</url>
 </set>
-<set loaded="true">
+
+<set loaded="true" minlat="52.891787" minlon="-1.276359" maxlat="53.021062" maxlon="-1.060084">
   <name>Nottingham - 20120105</name>
   <loader>SnapshotLoader</loader>
   <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
   <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/5/api/</url>
 </set>
-<set loaded="true">
+
+<set loaded="true" minlat="50.86804" minlon="-2.97167" maxlat="51.101364" maxlon="-2.405676">
   <name>SouthSomerset - 20120109.osm</name>
   <loader>SnapshotLoader</loader>
   <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
   <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/6/api/</url>
 </set>
-<set loaded="true">
+
+<set loaded="true" minlat="50.94047" minlon="-3.261668" maxlat="51.287922" maxlon="-2.756437">
   <name>TauntonSedgemoor - 20120103.osm</name>
   <loader>SnapshotLoader</loader>
   <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
   <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/7/api/</url>
+</set>
+
+<set loaded="true" minlat="53.446118" minlon="-1.794391" maxlat="53.590712" maxlon="-1.282918">
+  <name>Barnsley - 20120126</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/8/api/</url>
+</set>
+
+<set loaded="true" minlat="52.140648" minlon="-0.486037" maxlat="52.170628" maxlon="-0.324354">
+  <name>Bedford - 20120222</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/9/api/</url>
+</set>
+
+<set loaded="true" minlat="52.383446" minlon="-2.034545" maxlat="52.606734" maxlon="-1.735104">
+  <name> Birmingham - 20120126</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/10/api/</url>
+</set>
+
+<set loaded="true" minlat="53.760933" minlon="-1.997005" maxlat="53.944941" maxlon="-1.720317">
+  <name>Bradford - 20120127</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/11/api/</url>
+</set>
+
+<set loaded="true" minlat="53.677657" minlon="-2.104245" maxlat="53.755482" maxlon="-1.920416">
+  <name>Calderdale - 20120127</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/12/api/</url>
+</set>
+
+<set loaded="true" minlat="54.798062" minlon="-1.846782" maxlat="54.924351" maxlon="-1.324143">
+  <name>County Durham - 20120221</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/14/api/</url>
+</set>
+
+<set loaded="true" minlat="52.373939" minlon="-1.593274" maxlat="52.459229" maxlon="-1.43839">
+  <name>Coventry - 20120126</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/15/api/</url>
+</set>
+
+<set loaded="true" minlat="53.47027" minlon="-1.278989" maxlat="53.648722" maxlon="-0.951668">
+  <name>Doncaster - 20120127</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/16/api/</url>
+</set>
+
+<set loaded="true" minlat="52.42796" minlon="-2.177923" maxlat="52.543983" maxlon="-2.038285">
+  <name>Dudley - 20120127</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/17/api/</url>
+</set>
+
+<set loaded="true" minlat="54.914545" minlon="-1.81668" maxlat="54.984752" maxlon="-1.532404">
+  <name>Gateshead - 20120221</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/18/api/</url>
+</set>
+
+<set loaded="true" minlat="53.593145" minlon="-1.929925" maxlat="53.761882" maxlon="-1.599262">
+  <name>Kirklees - 20120127</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/19/api/</url>
+</set>
+
+<set loaded="true" minlat="53.724236" minlon="-1.762176" maxlat="53.951616" maxlon="-1.324629">
+  <name>Leeds - 20120124</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/20/api/</url>
+</set>
+
+<set loaded="true" minlat="51.849335" minlon="-0.600175" maxlat="52.146263" maxlon="-0.233692">
+  <name>Luton - 20120222</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/21/api/</url>
+</set>
+
+<set loaded="true" minlat="53.344588" minlon="-2.617177" maxlat="53.680782" maxlon="-1.979456">
+  <name>Manchester - 20120222</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/22/api/</url>
+</set>
+
+<set loaded="true" minlat="53.302379" minlon="-3.183551" maxlat="53.676653" maxlon="-2.599684">
+  <name>Merseyside - 20120222</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/23/api/</url>
+</set>
+
+<set loaded="true" minlat="51.983152" minlon="-0.837634" maxlat="52.084268" maxlon="-0.668895">
+  <name>MiltonKeynes - 20120222</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/24/api/</url>
+</set>
+
+<set loaded="true" minlat="54.983124" minlon="-1.639232" maxlat="55.079658" maxlon="-1.41816">
+  <name>NorthTyneside - 20120221</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/25/api/</url>
+</set>
+
+<set loaded="true" minlat="54.965754" minlon="-1.866967" maxlat="55.257402" maxlon="-1.462074">
+  <name>Northumberland - 20120221</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/26/api/</url>
+</set>
+
+<set loaded="true" minlat="50.777121" minlon="-1.268316" maxlat="50.913139" maxlon="-0.937667">
+  <name>Portsmouth - 20120221</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/27/api/</url>
+</set>
+
+<set loaded="true" minlat="53.327417" minlon="-1.323335" maxlat="53.516332" maxlon="-1.165985">
+  <name>Rotherham - 20120126</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/28/api/</url>
+</set>
+
+<set loaded="true" minlat="54.487903" minlon="-2.118336" maxlat="54.839559" maxlon="-1.303465">
+  <name>Rural County Durham - 20120221</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/29/api/</url>
+</set>
+
+<set loaded="true" minlat="54.8575" minlon="-2.588127" maxlat="55.77881" maxlon="-1.550149">
+  <name>Rural Northumberland - 20120221</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/30/api/</url>
+</set>
+
+<set loaded="true" minlat="52.464708" minlon="-2.094604" maxlat="52.565524" maxlon="-2.02934">
+  <name>Sandwell - 20120126</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/31/api/</url>
+</set>
+
+<set loaded="true" minlat="52.348046" minlon="-1.834044" maxlat="52.515066" maxlon="-1.620207">
+  <name>Solihull - 20120126</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/32/api/</url>
+</set>
+
+<set loaded="true" minlat="50.850552" minlon="-1.471079" maxlat="50.999357" maxlon="-1.26796">
+  <name>Southampton - 20120221</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/33/api/</url>
+</set>
+
+<set loaded="true" minlat="54.944498" minlon="-1.537437" maxlat="55.005285" maxlon="-1.356727">
+  <name>SouthTyneside - 20120221</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/34/api/</url>
+</set>
+
+<set loaded="true" minlat="54.915275" minlon="-1.565195" maxlat="54.947258" maxlon="-1.36232">
+  <name>Sunderland - 20120221</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/35/api/</url>
+</set>
+
+<set loaded="true" minlat="51.430128" minlon="-0.504796" maxlat="51.625241" maxlon="-0.281526">
+  <name>SuperLondonBorough1 - 20120220</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/36/api/</url>
+</set>
+
+<set loaded="true" minlat="51.542623" minlon="-0.304933" maxlat="51.684693" maxlon="-0.011618">
+  <name>SuperLondonBorough2+3 - 20120220</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/37/api/</url>
+</set>
+
+<set loaded="true" minlat="51.498151" minlon="-0.016346" maxlat="51.633308" maxlon="0.299047">
+  <name>SuperLondonBorough4 - 20120220</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/38/api/</url>
+</set>
+
+<set loaded="true" minlat="51.324782" minlon="-0.406307" maxlat="51.482102" maxlon="-0.141699">
+  <name>SuperLondonBorough5 - 20120220</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/39/api/</url>
+</set>
+
+<set loaded="true" minlat="51.41122" minlon="-0.15026" maxlat="51.45707" maxlon="0.033523">
+  <name>SuperLondonBorough6 - 20120220</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/40/api/</url>
+</set>
+
+<set loaded="true" minlat="51.300949" minlon="-0.145914" maxlat="51.433614" maxlon="0.14803">
+  <name>SuperLondonBorough7 - 20120220</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/41/api/</url>
+</set>
+
+<set loaded="true" minlat="51.416891" minlon="0.011745" maxlat="51.515881" maxlon="0.216144">
+  <name>SuperLondonBorough8 - 20120220</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/42/api/</url>
+</set>
+
+<set loaded="true" minlat="54.493279" minlon="-1.31239" maxlat="54.731017" maxlon="-0.793508">
+  <name>Teesside - 20120127</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/43/api/</url>
+</set>
+
+<set loaded="true" minlat="53.590332" minlon="-1.592231" maxlat="53.725402" maxlon="-1.235727">
+  <name>Wakefield - 20120127</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/44/api/</url>
+</set>
+
+<set loaded="true" minlat="52.554233" minlon="-2.072235" maxlat="52.661926" maxlon="-1.915902">
+  <name>Walsall - 20120127</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/45/api/</url>
+</set>
+
+<set loaded="true" minlat="52.542617" minlon="-2.197404" maxlat="52.634329" maxlon="-2.070909">
+  <name>Wolverhampton - 20120127</name>
+  <loader>SnapshotLoader</loader>
+  <policyfile>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/crossdomain.xml</policyfile>
+  <url>http://gravitystorm.dev.openstreetmap.org/cnxc-snapshot/projects/46/api/</url>
 </set>
 </vectors>
